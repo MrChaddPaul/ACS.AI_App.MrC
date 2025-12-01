@@ -1,0 +1,38 @@
+html, body {
+  background-color: #facade;
+}
+
+h1 {
+  text-align: center;
+}
+
+.red {
+  background-color: red;
+}
+
+.green {
+  background-color: green;
+}
+
+.blue {
+  background-color: blue;
+}
+
+li {
+  display: inline-block;
+}
+
+div {
+  display: inline-block;
+  height: 200px;
+  width: 33%;
+}
+
+body {
+  text-align: center;
+}
+
+
+
+
+
